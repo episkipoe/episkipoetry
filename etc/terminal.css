@@ -1,0 +1,23 @@
+body {
+	background-color:black;
+}
+h1 {
+	color:#5fba3d;
+}
+h2{
+	color:#5fba3d;
+	background-color:black;
+	font-family:monospace, prestige;
+}
+
+pre {
+	color:white;
+	background-color:black;
+}
+
+a:link { 
+	color: #FFFFFF;
+}
+a:visited { 
+	color: #999999;
+}
